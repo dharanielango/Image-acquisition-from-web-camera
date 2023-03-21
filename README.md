@@ -31,7 +31,7 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180)
 Python
 ### Developed By:Dharani Elango
 ### Register No:212221230021
-
+```
 ## i) Write the frame as JPG file
 
 ```
@@ -115,26 +115,26 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 </br>
-![O](44.png)
+![O](https://github.com/dharanielango/Image-acquisition-from-web-camera/blob/main/44.png)
 </br>
 
 
 ### ii) Display the video
 </br>
-![O](11.png)
+![O](https://github.com/dharanielango/Image-acquisition-from-web-camera/blob/main/11.png)
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-![O](22.png)
+![O](https://github.com/dharanielango/Image-acquisition-from-web-camera/blob/main/22.png)
 </br>
 
 
 
 ### iv) Rotate and display the video
 </br>
-![O](33.png)
+![O](https://github.com/dharanielango/Image-acquisition-from-web-camera/blob/main/33.png)
 </br>
 
 
